@@ -5,7 +5,7 @@ Three-tier project written in C# with MS SQL Server Backend. The project consist
 
 ## 👥 Registering new staff
 
-When registering new staff that will access the Banking App, it is necessary to an authorisation code. 
+When registering new staff that will access the Banking App, it is necessary to add an authorisation code. 
 
 
 
